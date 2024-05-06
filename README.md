@@ -18,7 +18,7 @@ I'm Irfan Ali, a passionate front-end developer with a love for crafting beautif
 
 Here are some projects I've worked on:
 
-Project 1:Clock-Watch Using html,css,javascript.
+[Project 1]( https://irfan9717.github.io/WALL-CLOCK/):Clock-Watch Using html,css,javascript.  
 
 
 ## Get in Touch
