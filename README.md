@@ -18,7 +18,7 @@ I'm a passionate **Front-End Developer & Java Backend Enthusiast** with a strong
 
 ## 🛠️ Skills
 
-* **Languages:** HTML5, CSS3, JavaScript (ES6+), 
+* **Languages:** HTML5, CSS3, JavaScript (ES6+)
 * **Front-End:** React.js, Next.js
 * **Back-End & Frameworks\:Core-Java, Spring, Spring Boot, Spring MVC, RESTful API**
 * **Tools & Platforms:** Git, GitHub, npm, Webpack, Babel
